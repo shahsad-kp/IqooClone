@@ -65,7 +65,7 @@ body{
   fill: gray;
   width: 40px;
   height: 40px;
-  margin-right: 37px;
+  margin-right: 10px;
 }
 
 .footer-texts{
@@ -73,4 +73,37 @@ body{
   color: #999;
 }
 
+.user-section-dropdown{
+  position: absolute;
+  height: auto;
+  width: 200px;
+  height: 192px;
+  top: 60px;
+  right: 132px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 0 30px;
+  display: none;
+}
 
+.user-dropdown-element{
+  font-size: 12px;
+}
+
+.drop-down-icon{
+  fill: black;
+  height: 24px;
+  width: 24px;
+  margin-right: 10px;
+}
+
+.drop-down-icon:hover, .user-drop-down-text:hover{
+  fill: #ff781c;
+  color: #ff781c
+}
+
+.user-drop-down-text{
+  color: black;
+}
