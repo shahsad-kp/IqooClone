@@ -18,3 +18,50 @@
   color: #999;
   text-align: center;
 }
+
+.footer-section-links{
+  display: flex;
+}
+
+.footer-links-section{
+  width: 200px;
+  margin-right: 20px;
+}
+
+.footer-links-title{
+  font-size: 18px;
+  line-height: 78px;
+  color: #000;
+  font-weight: 400
+}
+
+.footer-links-data{
+  display: block;
+  padding: 8px 0;
+  margin: 0;
+  color: #999;
+}
+
+.footer-large-lists{
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-links{
+  width: 280px;
+}
+
+.footer-social-media-large{
+  display: flex;
+}
+
+.icon-large{
+  height: 32px;
+  width: 32px;
+  margin-right: 16px;
+  fill: gray
+}
+
+.icon-large:hover{
+  fill: blue;
+}
