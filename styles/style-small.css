@@ -36,3 +36,12 @@
 .large-footer-social-media{
   display: flex;
 }
+
+.footer-copyright{
+  background-color: black;
+  position: relative;
+  padding: 3.51852vw 5.55556vw;
+  font-size: 3.51852vw;
+  color: #999;
+  text-align: center;
+}

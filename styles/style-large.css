@@ -10,4 +10,11 @@
   display: none;
 }
 
-
+.footer-copyright{
+  background-color: black;
+  position: relative;
+  padding: 22px;
+  font-size: 14px;
+  color: #999;
+  text-align: center;
+}
