@@ -1,0 +1,7 @@
+.section-one{
+  height: 100vh;
+  width: 100%;
+  background-image: url("../images/section-one-bg-sm.jpg");
+  background-position: top;
+  background-size: cover;
+}
