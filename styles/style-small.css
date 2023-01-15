@@ -5,3 +5,34 @@
   background-position: top;
   background-size: cover;
 }
+
+.footer-large{
+  display: none;
+}
+
+.footer-small{
+  padding: 5%;
+}
+
+.my-footer-toggle{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #333; 
+  font-size: 30px;
+}
+
+.large-footer-buttons{
+  color: rgb(51, 51, 51);
+  
+}
+
+.footer-collapse-item{
+  padding-top: 5px;
+  font-size: 25px;
+}
+
+.large-footer-social-media{
+  display: flex;
+}

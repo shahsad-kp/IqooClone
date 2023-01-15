@@ -46,6 +46,7 @@ body{
   height: 300px;
   padding: 0px !important;
   margin-top: 2px !important;
+  overflow: hidden;
 }
 
 .my-section-two-images{
@@ -58,4 +59,25 @@ body{
 
 .my-section-two-images:hover{
   transform: scale(1.025);
+}
+
+.icon{
+  fill: gray;
+  width: 40px;
+  height: 40px;
+  margin-right: 37px;
+}
+
+.footer-texts{
+  font-size: 4vw;
+  color: #999;
+}
+
+.footer-copyright{
+  background-color: black;
+  position: relative;
+  padding: 3.51852vw 5.55556vw;
+  font-size: 3.51852vw;
+  color: #999;
+  text-align: center;
 }
